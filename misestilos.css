@@ -1,3 +1,4 @@
-p {font-size: 20px}
+p {font-size: 20px; line-height: 1.5;margin-bottom: 15px;}
 #texto1 { font-size: 200px }
-.titulo{font: espacio 60px; font-family: 'Rozha One', serif;}
+.titulo{font: espacio 20px; font-family: 'Rozha One', serif;}
+body {background-color: aqua;color: brown; text-align: center;}
