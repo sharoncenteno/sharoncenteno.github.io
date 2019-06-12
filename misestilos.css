@@ -4,3 +4,4 @@ p {font-size: 20px; line-height: 1.5;margin-bottom: 15px;}
 body {background-color: aqua;color: brown; text-align: center;}
 #autor {font-style: italic; margin-bottom: 30px;font-family: 'Rozha One', serif;
     font-family: 'Kurale', serif; }
+    #cancion {margin: auto;padding: 0;text-align: left;width: 400px;}
