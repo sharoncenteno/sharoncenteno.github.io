@@ -6,3 +6,4 @@ body {background-color: aqua;color: brown; text-align: center;}
     font-family: 'Kurale', serif; }
     .cancion {margin: auto;padding: 0;text-align: left;width: 400px;}
     #parrafo1:first-letter{  font-size: 38px; line-height: 1; margin: 2px 5px 0 0 ;}
+    p:nth-child(2){background: blue;}
