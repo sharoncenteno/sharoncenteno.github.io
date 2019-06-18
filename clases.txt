@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<title>Este texto es el titulo del documento</title>
+<link rel="stylesheet" href="misestilos-css">
+</head>
+<body>
+<div id="wrapper">
+<p class="mi texto1">Mi texto1</p>
+<p class="mi texto2">Mi texto2</p>
+<p class="mi texto3">Mi texto3</p>
+<p class="mi texto4">Mi texto4</p>
+</div>
+</body>
+</html>
