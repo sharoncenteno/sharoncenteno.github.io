@@ -8,5 +8,10 @@ body {background-color: aqua;color: brown; text-align: center;}
     #parrafo1:first-letter{  font-size: 38px; line-height: 1; margin: 2px 5px 0 0 ;}
     p:nth-child(2){background: blue;}
     p:nth-child(4){background: blueviolet;
+
     font-family: 'Rozha One', serif;
 font-family: 'Cinzel', serif;}
+:not(p:nth-child(3))
+{
+    margin: 0px;
+}
