@@ -1,11 +1,12 @@
-*{margin: 0px; padding}
+*{margin: 0px; padding: 0px;}
 h1 {
-    fon: bold 20px verdana, sans-serif;
+    font: bold 20px verdana, sans-serif;
 }
 h2 {
-    font bold 14px verdana, sans-serif;
+    font: bold 14px verdana, sans-serif;
 }
-header, section, footer, aside, nav, article, figure,figcaption, hgroup{
+header, section, footer, aside, nav, article, figure,figcaption, hgroup
+{
     display: block;
 }
 body {
