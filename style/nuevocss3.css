@@ -18,6 +18,10 @@ body {
     -webkit-box-shadow:rgp(150,150,150) 5px 5px 10px inset;
     box-shadow: rgp (150,150,150) 5px 5px 10px inset;
 
+    background: -webkit-linaer-gradient(top, #FFFFFF, #006699);
+background: -moz-linaer-gradient(top,  #FFFFFF, #006699);
+
+
 }
 #titulo {
     font: bold 36px verdana, sans-serif;
