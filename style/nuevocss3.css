@@ -23,6 +23,8 @@ background: -moz-linaer-gradient(top,  #FFFFFF, #006699);
 
 background: radial-gradient(center, circle, #FFFFFF 0%, #006699 200%);
 
+outline: 2px dashed #000099;
+outline-offset: 15px;
 
 }
 #titulo {
