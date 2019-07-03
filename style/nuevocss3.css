@@ -31,9 +31,9 @@ border: 29px;
 -webkit-border-image: url("diamonds.png") 29 stretch;
 border-image: url("diamonds.png") 29 stretch;
 
--moz-transform: rotate(30dg);
--webkit-transform: rotate(30dg);
-transform: rotate(30dg);
+-moz-transform: skew(20deg);
+-webkit-transform: skew(20dg);
+transform: skew(20dg);
 
 
 }
