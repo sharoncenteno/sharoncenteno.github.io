@@ -10,6 +10,14 @@ body {
     border: 1px solid #999999;
     background: #dddddd;
 
+    -moz-border-radius: 20px ;
+    -webkit-border-radius: 20px ;
+    border-radius: 20px ;
+
+    -moz-box-shadow: rgp(150,150,150) 5px 5px 10px inset;
+    -webkit-box-shadow:rgp(150,150,150) 5px 5px 10px inset;
+    box-shadow: rgp (150,150,150) 5px 5px 10px inset;
+
 }
 #titulo {
     font: bold 36px verdana, sans-serif;
