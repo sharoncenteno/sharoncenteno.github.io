@@ -21,6 +21,8 @@ body {
     background: -webkit-linaer-gradient(top, #FFFFFF, #006699);
 background: -moz-linaer-gradient(top,  #FFFFFF, #006699);
 
+background: radial-gradient(center, circle, #FFFFFF 0%, #006699 200%);
+
 
 }
 #titulo {
