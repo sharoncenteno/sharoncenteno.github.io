@@ -31,8 +31,8 @@ border: 29px;
 -webkit-border-image: url("diamonds.png") 29 stretch;
 border-image: url("diamonds.png") 29 stretch;
 
--moz-transform: scale(30dg);
--webkit-transform: scale(30dg);
+-moz-transform: rotate(30dg);
+-webkit-transform: rotate(30dg);
 transform: rotate(30dg);
 
 
