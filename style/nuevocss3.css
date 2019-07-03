@@ -31,13 +31,13 @@ border: 29px;
 -webkit-border-image: url("diamonds.png") 29 stretch;
 border-image: url("diamonds.png") 29 stretch;
 
-
-
-
 }
-#pincipal:hover{-moz-transform:rotate(25deg);
+#pincipal:hover{
+    -moz-transform:rotate(25deg);
     -webkit-transform:rotate(25deg);
-    transform: rotate(25deg);}
+    transform: rotate(25deg);
+}
+
 #titulo {
     font: bold 36px verdana, sans-serif;
     text-shadow: rgb(0,0,0,0.5) 3px 3px 5px;
