@@ -14,11 +14,11 @@ body {
     -webkit-border-radius: 20px ;
     border-radius: 20px ;
 
-    -moz-box-shadow: rgp(150,150,150) 5px 5px 10px inset;
-    -webkit-box-shadow:rgp(150,150,150) 5px 5px 10px inset;
-    box-shadow: rgp (150,150,150) 5px 5px 10px inset;
+    -moz-box-shadow: :rgb(150,150,150) 5px 5px 10px inset;
+    -webkit-box-shadow:rgb(150,150,150) 5px 5px 10px inset;
+    box-shadow: rgb (150,150,150) 5px 5px 10px inset;
 
-    background: -webkit-linaer-gradient(top, #FFFFFF, #006699);
+    background: -webkit-linear-gradient(top, #FFFFFF, #006699);
 background: -moz-linaer-gradient(top,  #FFFFFF, #006699);
 
 background: radial-gradient(center, circle, #FFFFFF 0%, #006699 200%);
@@ -27,5 +27,5 @@ background: radial-gradient(center, circle, #FFFFFF 0%, #006699 200%);
 }
 #titulo {
     font: bold 36px verdana, sans-serif;
-    text-shadow: rgp(0,0,150) 3px 3px 5px;
+    text-shadow: rgb(0,0,150) 3px 3px 5px;
 }
