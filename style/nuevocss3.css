@@ -26,6 +26,11 @@ background: radial-gradient(center, circle, #FFFFFF 0%, #006699 200%);
 outline: 2px dashed #000099;
 outline-offset: 15px;
 
+border: 29px;
+-moz-border-image: url("images/diamonds.png") 29 stretch;
+-webkit-border-image: url("diamonds.png") 29 stretch;
+border-image: url("diamonds.png") 29 stretch;
+
 }
 #titulo {
     font: bold 36px verdana, sans-serif;
