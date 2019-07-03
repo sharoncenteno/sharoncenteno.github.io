@@ -31,9 +31,10 @@ border: 29px;
 -webkit-border-image: url("diamonds.png") 29 stretch;
 border-image: url("diamonds.png") 29 stretch;
 
--moz-transform: scale(2);
--webkit-transform: scale(2);
-transform: scale(2);
+-moz-transform: scale(1,-1);
+-webkit-transform: scale(1,-1);
+transform: scale(1,-1);
+
 
 }
 #titulo {
